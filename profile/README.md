@@ -8,4 +8,6 @@ that the world can truly feel and remember.
 
 ---
 
-**All Links:** [wblo.ir/links](https://wblo.ir/links)
+**All Links:** [wblo.ir/links](https://wblo.ir/links)  
+
+Check out our full [team here](/TEAM.md)!
