@@ -1,8 +1,5 @@
 # Meet the Webilo Studio Team
 
-Webilo Studio is the team behind the design, development, and maintenance of Webilo's products and custom software solutions.
-
-
 | Role               | Name    |
 |--------------------|---------|
 | Founder            | [Armin Malekzadeh](https://github.com/ariyx) |
