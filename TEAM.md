@@ -1,14 +1,15 @@
 # Meet the Webilo Studio Team
 
-Webilo Studio is the technology and engineering arm of Webilo. We build, innovate, and bring ideas to life.  
+Webilo Studio is the team behind the design, development, and maintenance of Webilo's products and custom software solutions.
 
-| Role               | Name    | Description                              |
-|--------------------|---------|------------------------------------------|
-| Founder            | [Armin Malekzadeh](https://github.com/ariyx) | Oversees vision, strategy, and growth    |
-| CTO                |  | Leads technical direction                |
-| Tech Lead          |  | Coordinates dev team & architecture     |
-| Backend Developer  |  | Builds server-side logic & APIs          |
-| Frontend Developer |  | Implements UI/UX & client-side code     |
+
+| Role               | Name    |
+|--------------------|---------|
+| Founder            | [Armin Malekzadeh](https://github.com/ariyx) |
+| CTO                |  |
+| Tech Lead          |  |
+| Backend Developer  |  |
+| Frontend Developer |  |
 
 ---
 
