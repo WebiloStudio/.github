@@ -1,13 +1,12 @@
-We connect the dots that others fail to notice,  
-seeing possibilities where most see chaos.
+Webilo Studio is the team behind the design, development, and maintenance of Webilo's products, as well as custom software solutions for clients.
 
-We turn these insights into **experiences, ideas, and creations**  
-that the world can truly feel and remember.
-
-**What we do may change. Why we do it never will.**
+Our work includes:
+- Building Webilo's internal products
+- Developing custom software for clients
+- Designing scalable systems and digital solutions
 
 ---
 
-**All Links:** [wblo.ir/links](https://wblo.ir/links)  
+**All Links:** [wblo.ir/links](https://wblo.ir/links)
 
-Check out our full [team here](/TEAM.md)!
+Learn more about the team in [TEAM.md](/TEAM.md).
